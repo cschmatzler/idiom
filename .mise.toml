@@ -3,4 +3,4 @@ ERL_AFLAGS = "-kernel shell_history enabled -kernel shell_history_file_bytes 102
 
 [tools]
 elixir = "1.19.4"
-erlang = "27.3.4"
+erlang = "28.2"
